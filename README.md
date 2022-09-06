@@ -2,11 +2,11 @@
 An Online Stay Rental Application
 
 ## Demo
-### Regitser / login
-![]()
+### Regitser & Login
+![](https://github.com/JuquanYu/StayBooking/blob/master/img/staybooking_register_login_AdobeExpress.gif)
 
-### Search / Collect Favorites
-![](https://github.com/JuquanYu/Twitch-Plus/blob/master/img/twitch-demo-2.gif)
+### Host Upload Stays
+![](https://github.com/JuquanYu/StayBooking/blob/master/img/staybooking_uploadStay_AdobeExpress.gif)
 
 ## License
 [NYU©JuquanYu.](../LICENSE)
